@@ -12,6 +12,6 @@ public class DemoServiceImpl implements DemoService {
 
     @Override
     public String test() {
-        return "interface test";
+        return "interface t22est";
     }
 }
